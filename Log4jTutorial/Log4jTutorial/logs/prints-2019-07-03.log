@@ -1,0 +1,8 @@
+03:19:07.483 [main] ERROR alpha.Demo - i will display error messages
+03:19:07.486 [main] FATAL alpha.Demo - i will display fatal messages
+03:19:47.254 [main] DEBUG beta.Demo1 - I am debugging
+03:19:47.258 [main] INFO  beta.Demo1 - i will display information
+03:19:47.258 [main] ERROR beta.Demo1 - i will display error messages
+03:19:47.258 [main] FATAL beta.Demo1 - i will display fatal messages
+03:20:04.709 [main] DEBUG beta.Demo1 - I am debugging
+03:20:04.712 [main] INFO  beta.Demo1 - i will display information
